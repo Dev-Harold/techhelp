@@ -1,5 +1,5 @@
 {
-  "name": "helpy-chatty",
+  "name": "techhelp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -32,18 +32,17 @@
     "ts-node": "^10.9.2",
     "typescript": "^5"
   },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
-  "main": "index.js",
+  "description": "techhelp.help is a concise and easy to follow tech help for older adults powered by Next.js, Stream, and the Anthropic API.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dev-Harold/helpy-chatty.git"
+    "url": "git+https://github.com/Dev-Harold/techhelp.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Hugo Clavel",
+  "license": "MIT",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Dev-Harold/helpy-chatty/issues"
+    "url": "https://github.com/Dev-Harold/techhelp/issues"
   },
-  "homepage": "https://github.com/Dev-Harold/helpy-chatty#readme"
+  "homepage": "https://github.com/Dev-Harold/techhelp#readme"
 }
