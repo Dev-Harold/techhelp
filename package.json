@@ -32,7 +32,7 @@
     "ts-node": "^10.9.2",
     "typescript": "^5"
   },
-  "description": "techhelp.help is a concise and easy to follow tech help for older adults powered by Next.js, Stream, and the Anthropic API.",
+  "description": "techhelp.help is a concise and easy to follow tech help site for older adults powered by Next.js, Stream, and the Anthropic API.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dev-Harold/techhelp.git"
