@@ -1,0 +1,5 @@
+allowBuilds:
+  sharp: true
+
+overrides:
+  jwa: 1.4.2
